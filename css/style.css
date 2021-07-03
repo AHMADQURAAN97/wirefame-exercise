@@ -1,34 +1,32 @@
-header {
-background-color: darkgrey;
-}
+
 
 header {
-    padding: 20px;
+    background-color: darkgrey;
+
+    padding: 10px;
 }
 nav ul li {
     display: inline-block;
     padding: 20px;
-    
-   
+
 }
 nav ul {
 
     text-align: center;
-    
-   
+
    
 }
 
 
 nav ul li a {
     text-decoration: none;
+
 }
 
 header img {
-
-    
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
+
 main section img {
     margin: 20px;
     margin-left: 200px;
@@ -52,7 +50,7 @@ div {
 p {
     position: relative;
     width: 400px;
-    
+    overflow: auto;
     margin-top: 70px;
 
 }
@@ -65,7 +63,10 @@ button {
     margin-top: 40px;
 }
 
-footer {
-    background:darkgrey;
-    width: 100%;
+ #foot  {
+    background-color: grey;
+    width: 5000px;
+    height:5cm;
+    
+
 }
